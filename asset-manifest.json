@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pdkki-reactWebsite/static/css/main.2a0062f4.css",
-    "main.js": "/pdkki-reactWebsite/static/js/main.e590ed3a.js",
-    "static/js/787.1d7a7f3c.chunk.js": "/pdkki-reactWebsite/static/js/787.1d7a7f3c.chunk.js",
-    "static/media/logo_PDKKI.png": "/pdkki-reactWebsite/static/media/logo_PDKKI.c1898d06bfb84e4d1072.png",
-    "static/media/sitelogo.png": "/pdkki-reactWebsite/static/media/sitelogo.9b9eb523a97f223fc815.png",
-    "static/media/logo.svg": "/pdkki-reactWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pdkki-reactWebsite/index.html",
-    "main.2a0062f4.css.map": "/pdkki-reactWebsite/static/css/main.2a0062f4.css.map",
-    "main.e590ed3a.js.map": "/pdkki-reactWebsite/static/js/main.e590ed3a.js.map",
-    "787.1d7a7f3c.chunk.js.map": "/pdkki-reactWebsite/static/js/787.1d7a7f3c.chunk.js.map"
+    "main.css": "/static/css/main.2a0062f4.css",
+    "main.js": "/static/js/main.177263a0.js",
+    "static/js/787.1d7a7f3c.chunk.js": "/static/js/787.1d7a7f3c.chunk.js",
+    "static/media/logo_PDKKI.png": "/static/media/logo_PDKKI.c1898d06bfb84e4d1072.png",
+    "static/media/sitelogo.png": "/static/media/sitelogo.9b9eb523a97f223fc815.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2a0062f4.css.map": "/static/css/main.2a0062f4.css.map",
+    "main.177263a0.js.map": "/static/js/main.177263a0.js.map",
+    "787.1d7a7f3c.chunk.js.map": "/static/js/787.1d7a7f3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0062f4.css",
-    "static/js/main.e590ed3a.js"
+    "static/js/main.177263a0.js"
   ]
 }
