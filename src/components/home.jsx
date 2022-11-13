@@ -4,16 +4,26 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h2>Home</h2>
-        <p>
-          Cras facilisis urna ornare ex volutpat, et convallis erat elementum.
-          Ut aliquam, ipsum vitae gravida suscipit, metus dui bibendum est, eget
-          rhoncus nibh metus nec massa. Maecenas hendrerit laoreet augue nec
-          molestie. Cum sociis natoque penatibus et magnis dis parturient
-          montes, nascetur ridiculus mus.
-        </p>
-
-        <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
+        <br />
+        {/* <h2>Home</h2> */}
+        <div className="col-sm-12 text-center">
+          <blockquote className="quote">
+            "Dalam kuasa dan karya Roh Kudus, berkumpul bersama melalui
+            penghayatan iman Katolik untuk bertumbuh dan mencapai tujuan hidup
+            Kristiani"
+          </blockquote>
+          <br />
+          <b> Kegiatan: </b> <br />
+          Misa <br />
+          Adorasi <br />
+          Persekutuan Doa <br />
+          Praise &amp; Worship <br />
+          Pendalaman Iman <br />
+          Kebangunan Rohani Katolik <br />
+          Retret <br />
+          Pelayanan <br /> <br />
+        </div>
+        <br />
       </div>
     );
   }

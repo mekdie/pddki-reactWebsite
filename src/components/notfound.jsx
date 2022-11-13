@@ -5,9 +5,21 @@ class NotFound extends Component {
   render() {
     return (
       <div>
-        <h1>Oops! You seem to be lost.</h1>
-        <p>Back to home:</p>
-        <Link to="/">Home</Link>
+        <br />
+        <div className="d-flex align-items-center justify-content-center">
+          <div className="text-center">
+            <h1 className="display-1 fw-bold">404</h1>
+            <p className="fs-3">
+              {" "}
+              <span className="text-danger">Opps!</span> Page not found.
+            </p>
+            <p className="lead">The page you’re looking for doesn’t exist.</p>
+            <Link to="/" className="btn btn-dark">
+              Go Home
+            </Link>
+          </div>
+        </div>
+        <br />
       </div>
     );
   }
