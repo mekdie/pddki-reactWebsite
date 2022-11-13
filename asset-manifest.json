@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/pddki-reactWebsite/static/css/main.2a0062f4.css",
-    "main.js": "/pddki-reactWebsite/static/js/main.339962ac.js",
+    "main.js": "/pddki-reactWebsite/static/js/main.ed3777d3.js",
     "static/js/787.1d7a7f3c.chunk.js": "/pddki-reactWebsite/static/js/787.1d7a7f3c.chunk.js",
     "static/media/logo_PDKKI.png": "/pddki-reactWebsite/static/media/logo_PDKKI.c1898d06bfb84e4d1072.png",
     "static/media/sitelogo.png": "/pddki-reactWebsite/static/media/sitelogo.9b9eb523a97f223fc815.png",
     "static/media/logo.svg": "/pddki-reactWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pddki-reactWebsite/index.html",
     "main.2a0062f4.css.map": "/pddki-reactWebsite/static/css/main.2a0062f4.css.map",
-    "main.339962ac.js.map": "/pddki-reactWebsite/static/js/main.339962ac.js.map",
+    "main.ed3777d3.js.map": "/pddki-reactWebsite/static/js/main.ed3777d3.js.map",
     "787.1d7a7f3c.chunk.js.map": "/pddki-reactWebsite/static/js/787.1d7a7f3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0062f4.css",
-    "static/js/main.339962ac.js"
+    "static/js/main.ed3777d3.js"
   ]
 }
